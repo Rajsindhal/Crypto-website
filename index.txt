@@ -1,0 +1,609 @@
+Cryptex - Buy & Sell Digital Assets In The cryptex
+
+
+
+#---------- HEADER ----------#
+
+alt = Cryptex logo
+Cryptex
+
+Homepage
+Buy Crypto
+Markets
+Sell Crypto
+Blog
+BITUSDT
+
+aria-label = Toggle menu
+
+Wallet
+
+
+
+#---------- HERO ----------#
+
+Buy & Sell Digital Assets In The Cryptex
+
+Coin Cryptex is the easiest, safest, and fastest way to buy & sell crypto asset exchange.
+
+Get started now
+
+alt = hero banner
+
+
+
+#---------- TREND ----------#
+
+Crypto
+DeFi
+BSC
+NFT
+Metaverse
+Polkadot
+Solana
+Opensea
+Makersplace
+
+alt = bitcoin logo
+
+Bitcoin
+BTC/USD
+
+USD 46,168.95
+
+36,641.20
+-0.79%
+
+alt = ethereum logo
+
+Ethereum
+ETH/USD
+
+USD 3,480.04
+
++10.55%
+
+alt = tether logo
+
+Tether
+USDT/USD
+
+USD 1.00
+
+-0.01%
+
+alt = bnb logo
+
+BNB
+BNB/USD
+
+USD 443.56
+
+-1.24%
+
+
+
+#---------- MARKET ----------#
+
+Market Update
+
+See All Coins
+
+View All
+Metaverse
+Entertainment
+Energy
+NFT
+Gaming
+Music
+
+#
+Name
+Last Price
+24h %
+Market Cap
+Last 7 Days	
+
+aria-label = Add to favourite
+<ion-icon name="star-outline" aria-hidden="true" class="icon-outline"></ion-icon>
+<ion-icon name="star" aria-hidden="true" class="icon-fill"></ion-icon>
+
+1
+alt = Bitcoin logo
+Bitcoin
+BTC
+    $56,623.54
++1.45%
+$880,423,640,582
+alt = profit chart
+Trade
+
+2
+alt = Ethereum logo
+Ethereum
+ETH
+-5.12%
+alt = loss chart
+
+3
+alt = Tether logo
+Tether
+USDT/USD
++1.45%
+alt = profit chart
+
+4
+alt = BNB logo
+BNB
+BNB/USD
+-3.75%
+
+5
+alt = Solana logo
+Solana
+SOL
++1.45%
+
+6
+alt = XRP logo
+XRP
+XRP
+-2.22%
+alt = loss chart
+
+7
+alt = Cardano logo
+Cardano
+ADA
++0.8%
+alt = profit chart
+
+8
+alt = Avalanche logo
+Avalanche
+AVAX
++1.41%
+
+
+
+#---------- INSTRUCTION ----------#
+
+How It Work
+
+Stacks is a production-ready library of stackable content blocks built in React Native.
+
+alt = Step 1
+Step 1
+
+Download
+
+Stacks Is A Production-Ready Library Of Stackable Content Blocks Built In React Native.
+
+Step 2
+Connect Wallet
+
+Step 3
+Start Trading
+
+Step 4
+Earn Money
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+What Is Cryptex
+
+Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
+
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+View real-time cryptocurrency prices
+
+Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
+
+Buy and sell BTC, ETH, XRP, OKB, Etc...
+
+Explore More
+
+
+
+#---------- APP ----------#
+
+Free Your Money & Invest With Confident
+
+    With Cryptor Trade, you can be sure your trading skills are matched
+
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+Buy, Sell, And Trade On The Go
+
+Manage Your Holdings From Your Mobile Decive
+
+Take Control Of Your Wealth
+
+Rest Assured You (And Only You) Have Access To Your Funds
+
+alt = get it on google play
+alt = download on the app store
+
+alt = app banner
+Scan To Download
+
+
+
+#---------- FOOTER ----------#
+
+alt = Cryptex logo
+Cryptex
+
+Let's talk! 🤙
++12 345 678 9101
+
+hello.cryptex@gmail.com
+
+Cecilia Chapman 711-2880 Nulla St. Mankato Mississippi 96522
+
+Products
+
+Spot
+Inverse Perpetual
+USDT Perpetual
+Exchange
+Launchpad
+Binance Pay
+
+Services
+
+Buy Crypto
+Markets
+Tranding Fee
+Affiliate Program
+Referral Program
+API
+
+Support
+
+Bybit Learn
+Help Center
+User Feedback
+Submit a request
+API Documentation
+Trading Rules
+
+About Us
+
+About Bybit
+Authenticity Check
+Careers
+Business Contacts
+Blog
+
+&copy; 2022 Cryptex All Rights Reserved by codewithsadee
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+
+
+#---------- HEADER ----------#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 575px){
+  
+
+  /* custom property  */
+
+  :root{
+
+    /* typography  */
+
+    --fs-1: 4rem;
+    --fs-2: 3.4rem;
+
+  }
+
+
+  /* reused style  */
+
+  .container{
+    max-width: 540px;
+    width: 100%;
+    margin-inline: auto;
+  }
+
+
+
+  /* hero / */
+
+  .hero-text{
+    --fs-5: 2rem;
+  }
+}
+
+/* responsive for larger than 768px screen */
+
+@media (min-width: 768px){
+
+
+  /* custom property  */
+
+  :root{
+
+
+    /* typography */
+
+    --fs-1: 5rem;
+    --fs-2: 4rem;
+
+
+    /* reused  */
+
+    .container{
+      max-width: 750px;
+    }
+
+    /* hero */
+
+    .hero-banner{
+      max-width: max-content;
+      margin-inline: auto;
+    }
+
+
+    /* trend */
+
+    .trend-tab .tab-content{ grid-template-columns: 1fr 1fr;}
+  }
+
+  /* .instruction  / */
+
+  .instruction{ overflow: hidden;}
+
+  .instruction .section-text {
+    max-width: 40ch;
+    margin-inline: auto;
+  }
+
+  .instruction-list { grid-template-columns: 1fr 1fr;}
+
+  .instruction-card{ position: relative;}
+
+  .instruction-card::after{
+    content: "";
+    width: 160px;
+    height: 12px;
+    background-image: url("../images/connect-line.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    top: 50px;
+    right: -95px;
+  }
+
+  .instruction-list > li:nth-child(even) .instruction-card::after{
+    display: none;
+  }
+
+
+
+  /* app/ */
+
+  .app-banner{ max-width: max-content;}
+
+
+  /* footer / */
+
+  .footer-top .container{
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+
+  .footer-brand{ grid-column: 1 / 3;}
+
+
+.footer-botton .container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.copyright{ margin-block-end: 0;}
+
+}
+
+@media (min-width: 992px){
+
+
+  /* reused style  */
+
+  .container{ max-width: 960px;}
+
+
+
+
+  /* header  */
+
+  .header{ padding-block: 5px;}
+
+  .header.active { top: -60px;}
+
+  .header > .container { gap: 50px;}
+
+  .nav-toggle-btn{
+    display: none;
+  }
+
+  .navbar,
+  .navbar.active{
+    all: unset;
+    margin-inline-end: auto;
+  }
+  .navbar-list{
+    display: flex;
+    align-items: center;
+
+  }
+
+  .navbar-item:not(:last-child){
+    border-block-end: none;
+  }
+  .navbar-link{
+    font-size: var(--fs-7);
+    padding: 15px 20px;
+
+  }
+  .navbar-link:is(:hover,:focus,.active){
+    background-color: var(--blue-crayola);
+    color: var(--white);
+  }
+
+
+
+  /* hero // */
+
+  .hero .container{
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 30px;
+
+  }
+
+  .hero-content{ margin-block-end: 0;}
+
+
+
+  /* market // */
+
+  .market-tab{ padding-block-end: 0;}
+
+
+
+  /* about/ */
+
+  .about .container{
+    display: grid;
+    grid-template-columns: 1fr 0.8fr;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .about-banner{
+    margin-block-end: 0;
+  }
+
+
+  /* app  */
+
+  .app{ padding-block: 0;}
+
+  .app .container{
+    display: grid;
+    grid-template-columns: 0.8fr 1fr;
+    align-items: flex-end;
+    gap: 30px;
+  }
+
+  .app-banner{ margin-block-end: 0;}
+
+  .app-content{
+    margin-block: 50px;
+  }
+
+}
+
+
+
+
+@media (min-width: 1200px){
+
+
+  /* custom property/ */
+
+  :root{
+
+
+    /* typography */
+
+    --fs-1: 6.4rem;
+    --fs-2: 4.8rem;
+  }
+
+
+  /* reused/ */
+
+  .container{ max-width: 1200px;}
+
+
+  /* header/ */
+
+  .header.active{ top: -64px;}
+
+  .navbar-link{font-size: unset;}
+
+
+
+  /* hero/ */
+
+  .hero .container{
+    gap: 100px;
+
+  }
+
+
+  /* trend/ */
+
+  .trend-tab .tab-content{ grid-template-columns: repeat(4, 1fr);}
+
+
+  /* .instruction */
+
+  .instruction-list{ grid-template-columns: repeat(4,1fr);}
+
+  .instruction-list > li:nth-child(even) .instruction-card::after{
+    display: block;
+  }
+
+  .instruction-list > li:last-child .instruction-card::after{ display: none;}
+
+
+  /* about and app  */
+
+  :is(.app , .about) .container{gap: 60px;}
+
+  /* app  */
+
+  .app-content{ margin-block: 100px;}
+
+  /* footer   */
+
+  .footer-top{ padding-block: 100px 90px;}
+
+  .footer-top .container {
+    grid-template-columns: 1fr 0.5fr 0.5fr 0.5fr 0.5fr;
+  }
+
+  .footer-brand{ grid-column: auto;}
+
+
+
+}
